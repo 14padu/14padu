@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Bsc. computer science
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me padmaja.phn@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 - ### Here are my project
 - [Basic Express app with CRUD operations](https://github.com/14padu/expressAPPlevel3.git)
