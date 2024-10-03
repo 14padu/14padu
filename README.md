@@ -11,7 +11,7 @@
 - 
 
 - ##React Projects
-- [Basic react project for word-letter-counter]
+- [Basic react project for word-letter-counter](https://github.com/14padu/reactProject/tree/main/wordletter-counter)
 - [Basic React project Password validator]
 - [Basic React project for axios app] 
 
