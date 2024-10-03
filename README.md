@@ -12,7 +12,7 @@
 
 - ##React Projects
 - [Basic react project for word-letter-counter](https://github.com/14padu/reactProject/tree/main/wordletter-counter)
-- [Basic React project Password validator]
+- [Basic React project Password validator](https://github.com/14padu/reactProject/tree/main/passwordValidator)
 - [Basic React project for axios app] 
 
 14padu/14padu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
