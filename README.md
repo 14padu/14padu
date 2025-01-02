@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Bsc. computer science
 - 💞️ I’m looking to collaborate on google
-- 📫 How to reach me padmajapradhan44@gmail.com
+- 📫 How to reach me padmaja.phn@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 - ### Here are my project
